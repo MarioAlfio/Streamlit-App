@@ -4,8 +4,8 @@
 <p>
 <b>1' Step:</b> 
 <ul>
-         <li>Dataset creation using scraping with libraries like <b>BeautifulSoup and Selenium</b>b>.</li> 
-         <li>Data Cleaning with library <b>Spacy</b>b>.</li>
+         <li>Dataset creation using scraping with libraries like <b>BeautifulSoup and Selenium</b>.</li> 
+         <li>Data Cleaning with library <b>Spacy</b>.</li>
 </ul>
 
 <b>2' Step:</b> Training and saving the <b>SetFit model</b>
@@ -13,22 +13,12 @@
 https://github.com/philschmid/setfit-few-shot-classification-sample/blob/main/notebook.ipynb
 
 <b>3' Step:</b> Streamlit app 
-<div style="width:100%;max-width:300px;border-radius:10px;border:1px red solid;overflow:hidden">
-<div style="background-color:#eeeeee;padding:5px">
-pip install streamlit
-</div>
-</div>
-<div style="width:100%;max-width:300px;border-radius:10px;border:1px red solid;overflow:hidden">
-<div style="background-color:#eeeeee;padding:5px">
+
+<code>pip install streamlit</code>
+
 import streamlit as st
-</div>
-</div>
 Terminale:
-<div style="width:100%;max-width:300px;border-radius:10px;border:1px red solid;overflow:hidden">
-<div style="background-color:#000000;padding:5px">
 streamlit run Int.py        
-</div>
-</div>
 </p>
 <br>
 <p>
