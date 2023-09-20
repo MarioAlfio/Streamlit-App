@@ -18,7 +18,7 @@ https://github.com/philschmid/setfit-few-shot-classification-sample/blob/main/no
 <br>
 <code>import streamlit as st</code>
 <br>
-Terminale:
+Terminal:
 <br>
 <code>streamlit run Int.py </code>      
 </div>
