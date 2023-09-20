@@ -1,7 +1,8 @@
 <h1> # Streamlit-App </h1>
-Creation of a demo Streamlit app that based on your needs finds a software solution
+<br>
+<h3> Creation of a demo Streamlit app that based on your needs finds a software solution </h3>
 
-1' Step: Dataset creation using scraping with libraries like BeautifulSoup and Selenium. 
+<b>1' Step</b>: Dataset creation using scraping with libraries like BeautifulSoup and Selenium. 
          Data Cleaning with library Spacy.
 
 2' Step: Training and saving the SetFit model
