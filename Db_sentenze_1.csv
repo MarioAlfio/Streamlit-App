@@ -1,0 +1,1014 @@
+id_text,Text,Software
+0,'API',1 
+1,'Accesso da dispositivi mobili',1 
+2,'Accesso/Controllo remoto',1 
+3,'Acquisizione di potenziali clienti',1 
+4,'Acquisto e ricezione',1 
+5,'Aggiornamenti in tempo reale',1 
+6,'Ambiente di sviluppo integrato',1 
+7,'Analisi predittiva',1 
+8,'App per dispositivi mobili',1 
+9,'Archiviazione di documenti',1 
+10,'Assemblaggio di componenti (kitting)',1 
+11,'Automazione del marketing',1 
+12,'Avvisi/Allarme crescente',1 
+13,'Avvisi/Notifiche',1 
+14,'Avviso per doppio pagamento',1 
+15,'Branding personalizzabile',1 
+16,'CRM',1 
+17,'Calcoli di prezzi e costi',1 
+18,'Calcolo delle imposte',1 
+19,'Campi personalizzabili',1 
+20,'Carrello degli acquisti',1 
+21,'Catalogazione/categorizzazione',1 
+22,'Catalogo di prodotti',1 
+23,'Check-in/Check-out',1 
+24,'Codici a barre/RFID',1 
+25,'Codici cromatici/icone',1 
+26,'Codificazione e controllo dei documenti',1 
+27,'Commenti/Note',1 
+28,'Comunicazione multi-canale',1 
+29,'Condivisione di documenti',1 
+30,'Configuratore di prodotti',1 
+31,'Contabilità',1 
+32,'Contabilità del progetto',1 
+33,'Contabilità di base',1 
+34,'Contabilità generale',1 
+35,'Contabilità integrata',1 
+36,'Controllo accessi/Autorizzazioni',1 
+37,'Controllo del processo di valutazione',1 
+"38,""""""Controllo dell'inventario"""""",1 "
+39,'Controllo della versione',1 
+40,'Controllo ore e spese',1 
+41,'Creazione automatica di preventivi',1 
+42,'Creazione delle commesse',1 
+43,'Creazione delle fatture',1 
+44,'Creazione di distinte base',1 
+45,'Creazione di report/analisi',1 
+46,'Crediti esigibili',1 
+47,'Cronologia clienti',1 
+48,'Cronologia dei servizi',1 
+49,'Cronologia delle fatture',1 
+50,'Database clienti',1 
+51,'Database contatti',1 
+52,'Database impiegati',1 
+53,'Debiti esigibili',1 
+54,'Debugging',1 
+55,'Distinta materiali',1 
+56,'Distribuzione di potenziali clienti',1 
+57,'Editor WYSIWYG',1 
+58,'Elaborazione delle fatture',1 
+59,'Elaborazione di batch',1 
+60,'Elaborazione di pagamenti',1 
+61,'Email Marketing',1 
+62,'Estrapolazione di dati',1 
+63,'Etichettatura',1 
+64,'Evasione di ordini',1 
+65,'Fatturazione e contabilizzazione',1 
+66,'Fatturazione online',1 
+67,'Fatturazione ricorrente',1 
+68,'Fatture personalizzabili',1 
+69,'Fatture ricorrenti e abbonamenti',1 
+70,'Feedback a 360 gradi',1 
+71,'Firma digitale',1 
+72,'Firma elettronica',1 
+73,'Formulazione di previsioni',1 
+74,'Funzionalità di anteprima',1 
+75,'GPS',1 
+76,'Generatore di shop online',1 
+77,'Gestione SEO',1 
+78,'Gestione contatti',1 
+79,'Gestione degli approvvigionamenti',1 
+80,'Gestione degli articoli',1 
+81,'Gestione degli audit',1 
+82,'Gestione degli ordini',1 
+83,'Gestione degli ordini arretrati',1 
+"84,""""""Gestione degli ordini d'acquisto"""""",1 "
+85,'Gestione degli ordini di lavoro',1 
+86,'Gestione degli sconti',1 
+87,'Gestione dei buoni regalo',1 
+88,'Gestione dei calendari',1 
+89,'Gestione dei clienti',1 
+90,'Gestione dei contenuti',1 
+91,'Gestione dei dati del prodotto',1 
+92,'Gestione dei feedback',1 
+93,'Gestione dei fornitori',1 
+94,'Gestione dei modelli',1 
+95,'Gestione dei pagamenti ACH',1 
+96,'Gestione dei partecipanti',1 
+97,'Gestione dei piani di abbonamento',1 
+98,'Gestione dei prezzi',1 
+99,'Gestione dei progetti',1 
+100,'Gestione dei requisiti',1 
+101,'Gestione dei resi',1 
+102,'Gestione dei tecnici',1 
+103,'Gestione dei ticket di assistenza',1 
+104,'Gestione dei trasporti',1 
+105,'Gestione del carburante',1 
+106,'Gestione del ciclo di vita',1 
+107,'Gestione del ciclo di vita dei contratti',1 
+108,'Gestione del ciclo di vita delle risorse',1 
+109,'Gestione del flusso di lavoro',1 
+110,'Gestione del lavoro',1 
+111,'Gestione del magazzino',1 
+112,'Gestione del personale',1 
+113,'Gestione del portafoglio',1 
+114,'Gestione del territorio',1 
+"115,""""""Gestione dell'approvvigionamento"""""",1 "
+"116,""""""Gestione dell'e-commerce"""""",1 "
+"117,""""""Gestione dell'inventario"""""",1 "
+118,'Gestione della campagna',1 
+119,'Gestione della catena logistica',1 
+120,'Gestione della conformità',1 
+121,'Gestione della consegna',1 
+122,'Gestione della formazione',1 
+123,'Gestione della knowledge base',1 
+124,'Gestione della liquidità',1 
+125,'Gestione della manutenzione',1 
+126,'Gestione della pipeline di vendita',1 
+127,'Gestione della posta elettronica',1 
+128,'Gestione della produzione',1 
+129,'Gestione della qualità',1 
+130,'Gestione della ricezione e dello stoccaggio',1 
+131,'Gestione della spesa',1 
+132,'Gestione delle attività',1 
+133,'Gestione delle attività di vendita',1 
+134,'Gestione delle buste paga',1 
+135,'Gestione delle cancellazioni',1 
+136,'Gestione delle conoscenze',1 
+137,'Gestione delle immobilizzazioni',1 
+138,'Gestione delle iscrizioni',1 
+139,'Gestione delle modifiche',1 
+140,'Gestione delle opportunità',1 
+141,'Gestione delle pipeline',1 
+142,'Gestione delle retribuzioni',1 
+143,'Gestione delle richieste',1 
+144,'Gestione delle risorse',1 
+145,'Gestione delle risorse aziendali',1 
+146,'Gestione delle risorse umane',1 
+147,'Gestione delle spedizioni',1 
+148,'Gestione delle tasse',1 
+149,'Gestione delle transazioni',1 
+150,'Gestione di contratti/licenze',1 
+151,'Gestione di documenti',1 
+152,'Gestione di idee',1 
+153,'Gestione di potenziali clienti',1 
+154,'Gestione di siti web',1 
+155,'Gestione finanziaria',1 
+156,'Gestione multi-canale',1 
+157,'Gestione nuovi ordini',1 
+158,'Gestione progettuale',1 
+159,'Gestione stock commercianti al dettaglio',1 
+160,'Grafico a barre',1 
+161,'Identificazione del prodotto',1 
+162,'Implementazione web-based',1 
+163,'Importazione/Esportazione di dati',1 
+164,'Informazioni in tempo reale',1 
+165,'Inserimento ordini',1 
+166,'Instradamento automatico',1 
+167,'Integrazione di social media',1 
+168,'Integrazioni di terze parti',1 
+169,'Interfaccia utente grafica',1 
+170,'Iscrizioni/Onboarding',1 
+171,'Lead Generation',1 
+172,'Lead Qualification',1 
+173,'Live Chat',1 
+174,'Manutenzione predittiva',1 
+175,'Manutenzione preventiva',1 
+176,'Modelli',1 
+177,'Modelli di e-mail',1 
+178,'Modelli personalizzabili',1 
+179,'Modelli precompilati',1 
+180,'Modifica in tempo reale',1 
+181,'Monitoraggio candidati',1 
+182,'Monitoraggio degli ordini',1 
+183,'Monitoraggio dei cespiti',1 
+184,'Monitoraggio dei costi',1 
+185,'Monitoraggio dei costi di completamento',1 
+186,'Monitoraggio dei progressi',1 
+187,'Monitoraggio dei progressi delle attività',1 
+188,'Monitoraggio dei report/progetti',1 
+"189,""""""Monitoraggio dell'inventario"""""",1 "
+190,'Monitoraggio della percentuale di completamento',1 
+191,'Monitoraggio delle attività',1 
+192,'Monitoraggio dello stato',1 
+193,'Monitoraggio di attività e progressi',1 
+"194,""""""Monitoraggio/analisi dell'uso"""""",1 "
+195,'Notifiche in tempo reale',1 
+196,'Operazioni commerciali integrate',1 
+197,'Opzioni di pagamento multiple',1 
+198,'Opzioni di pubblicazione',1 
+199,'Orari e presenze',1 
+200,'Ordini ricorrenti',1 
+"201,""""""Ottimizzazione dell'inventario"""""",1 "
+202,'Pagamenti online',1 
+203,'Pagamenti' 'tramite cellulare',1 
+204,'Pagamento elettronico',1 
+205,'Pagine di destinazione/Moduli web',1 
+206,'Parametri prestazionali',1 
+207,'Per dispositivi iPad',1 
+208,'Per il settore assicurativo',1 
+209,'Per negozi al dettaglio',1 
+210,'Per piccole imprese',1 
+211,'Per ristoranti',1 
+212,'Per startup',1 
+213,'Pianificazione automatica',1 
+214,'Pianificazione del fabbisogno dei materiali (MRP)',1 
+215,'Pianificazione della manutenzione',1 
+216,'Pianificazione delle capacità',1 
+217,'Pianificazione di eventi',1 
+218,'Pianificazione di vendite e operazioni',1 
+219,'Pianificazione/Programmazione dei progetti',1 
+220,'Pianificazione/previsione delle spese',1 
+221,'Portale clienti',1 
+222,'Portale self-service',1 
+223,'Preventivi/Stime',1 
+224,'Previsione della domanda',1 
+225,'Prioritizzazione',1 
+226,'Profili dei dipendenti',1 
+227,'Programmazione',1 
+228,'Programmazione della produzione',1 
+229,'Programmazione delle attività',1 
+230,'Programmazione di progetti',1 
+231,'Promemoria',1 
+232,'Promozione sui social',1 
+233,'Prova di compatibilità',1 
+234,'Punto di vendita',1 
+235,'Quadro della attività',1 
+236,'Redazione di contratti',1 
+237,'Relazioni sulle vendite',1 
+238,'Rendicontazione e analisi statistiche',1 
+239,'Rendicontazione finanziaria',1 
+240,'Ricerca del numero di targa',1 
+241,'Ricerca del testo completo',1 
+242,'Ricerca/Filtro',1 
+243,'Riconciliazione bancaria',1 
+"244,""""""Riconciliazione ordini d'acquisto"""""",1 "
+245,'Scansione di codici a barre/biglietti',1 
+246,'Segmentazione',1 
+247,'Segmentazione della clientela',1 
+248,'Segmentazione della clientela potenziale',1 
+249,'Sistema di calendari e promemoria',1 
+250,'Sistema multi-locale',1 
+251,'Sistema multi-valuta',1 
+252,'Sistema plurilingue',1 
+253,'Strumenti collaborativi',1 
+254,'Tabella del metodo Kanban',1 
+255,'Tracciabilità delle spese',1 
+256,'Tracciamento delle interazioni',1 
+257,'Tracciato di controllo',1 
+258,'Trascinamento della selezione (Drag & Drop)',1 
+"259,""""""Verifica dell'inventario"""""",1 "
+260,'Vista di Gantt e Timeline',1 
+261,'Visualizzazione',1 
+262,'Programmi gestionali aziendali',2 
+263,'Gestionale per la contabilità degli autosaloni',2 
+"264,""""""Software per l'industria manifatturiera"""""",2 "
+265,'Software per la distribuzione',2 
+266,'Software per tesoreria aziendale',2 
+267,'Software per la gestione della supply chain',2 
+268,'Software per la gestione degli ordini',2 
+269,'Software di rendicontazione finanziaria',2 
+270,'Software CRM',2 
+271,'Software per la gestione degli acquisti',2 
+272,'Software per Inventory Management',2 
+273,'Software ERP',2 
+274,'Software di contabilità',2 
+275,'Programmi per gestione magazzino',2 
+276,'Software di contabilità dei fondi',3 
+277,'Software di knowledge base',3 
+278,'Software per budget',3 
+279,'Software di lead generation',3 
+280,'Software di social media marketing',3 
+281,'Software per la gestione della forza lavoro di call center',3 
+282,'Software per social media management',3 
+283,'Software di contabilità generale',3 
+284,'Software per lead management',3 
+285,'Software CRM per assicurazioni',3 
+286,'Piattaforme e-procurement',3 
+287,'Software per servizio clienti',3 
+288,'Gestionali per la gestione dei contatti',3 
+289,'Software di contabilità per agenzie immobiliari',3 
+290,'Software per la gestione della supply chain',3 
+291,'Field service management tool',3 
+292,'Software per creare dashboard',3 
+293,'Programmi gestionali aziendali',3 
+294,'Software ERP',3 
+295,'Software di rendicontazione finanziaria',3 
+296,'Programmi per fatturazione elettronica',3 
+297,'Software di monitoraggio delle vendite',3 
+298,'Software per la gestione degli acquisti',3 
+299,'Software CRM',3 
+300,'API',4 
+301,'Accesso da dispositivi mobili',4 
+302,'Accesso offline',4 
+303,'Acquisizione di documenti',4 
+304,'Acquisizione di potenziali clienti',4 
+305,'Aggiornamenti in tempo reale',4 
+306,'Aggiornamento automatico',4 
+307,'Analisi dati della campagna',4 
+308,'Analisi predittiva',4 
+309,'Analisi visiva',4 
+310,'Approvazione delle vendite',4 
+311,'Archiviazione di documenti',4 
+312,'Archiviazione e conservazione',4 
+313,'Assistente automatizzato',4 
+314,'Assistenza clienti',4 
+315,'Attività di importazione',4 
+316,'Attività ricorrenti',4 
+317,'Attività/News Feed',4 
+318,'Audio e video bidirezionali',4 
+319,'Audio/Videoconferenze',4 
+320,'Automatizzazione dei moduli',4 
+321,'Automazione dei processi aziendali',4 
+322,'Automazione dei processi e dei flussi di lavoro',4 
+323,'Automazione del marketing',4 
+324,'Autorizzazioni basate sul ruolo',4 
+325,'Avvisi/Notifiche',4 
+326,'Azioni innescate da eventi',4 
+327,'Backup e ripristino',4 
+328,'Banca dati cliente',4 
+329,'Banca dati di iscritti',4 
+330,'Benchmarking',4 
+331,'Brainstorming',4 
+332,'Branding personalizzabile',4 
+333,'CRM',4 
+334,'Calcoli di prezzi e costi',4 
+335,'Calendario marketing',4 
+336,'Calendario online',4 
+337,'Campagne di drip marketing',4 
+338,'Campi personalizzabili',4 
+339,'Catalogazione/categorizzazione',4 
+340,'Chat dal vivo',4 
+341,'Chat in tempo reale per i consumatori',4 
+342,'Chat/Messaggistica',4 
+343,'Codici cromatici/icone',4 
+344,'Coinvolgimento dei clienti',4 
+345,'Coinvolgimento di potenziali clienti',4 
+346,'Collaborazione multi-utente',4 
+347,'Commenti/Note',4 
+348,'Composizione automatica dei numeri di telefono',4 
+349,'Comunicazione con i pazienti',4 
+350,'Comunicazione multi-canale',4 
+351,'Comunicazioni unificate',4 
+352,'Condivisione dello schermo',4 
+353,'Condivisione di documenti',4 
+354,'Conferenze',4 
+355,'Conferma/Promemoria',4 
+356,'Configuratore di prodotti',4 
+357,'Configurazione del flusso di lavoro',4 
+358,'Conformità CAN SPAM',4 
+359,'Connessione VoIP',4 
+360,'Contatti condivisi',4 
+361,'Controllo accessi/Autorizzazioni',4 
+362,'Controllo degli orari di lavoro',4 
+363,'Controllo del processo di valutazione',4 
+364,'Controllo della versione',4 
+365,'Controllo delle assenze',4 
+366,'Controllo ore e spese',4 
+367,'Conversione delle e-mail in attività',4 
+368,'Conversione testo-parola',4 
+369,'Creazione automatica di preventivi',4 
+370,'Creazione delle fatture',4 
+371,'Creazione di report/analisi',4 
+372,'Creazione di roadmap',4 
+373,'Creazione di roadmap strategiche per i prodotti',4 
+374,'Creazione di task subordinati',4 
+375,'Creazione e design di moduli',4 
+376,'Cronologia clienti',4 
+377,'Cronologia delle fatture',4 
+378,'Dashboard',4 
+379,'Database clienti',4 
+380,'Database contatti',4 
+381,'Database impiegati',4 
+382,'Definizione degli script di chiamata',4 
+383,'Definizione/monitoraggio degli obiettivi',4 
+384,'Digitazione di tasti del telefono',4 
+385,'Directory degli iscritti',4 
+386,'Directory del personale',4 
+387,'Discussioni/Forum',4 
+388,'Distribuzione dei contenuti',4 
+389,'Distribuzione di potenziali clienti',4 
+390,'E-mail ottimizzate per cellulari',4 
+391,'Editor WYSIWYG',4 
+392,'Editor grafico di flussi di lavoro',4 
+393,'Elaborazione di batch',4 
+394,'Elaborazione di pagamenti',4 
+395,'Email Marketing',4 
+396,'Estensioni virtuali',4 
+397,'Etichettatura delle attività',4 
+398,'Fatturazione e contabilizzazione',4 
+399,'Fatturazione online',4 
+400,'Fatture personalizzabili',4 
+401,'Firma elettronica',4 
+402,'Flusso di lavoro basato su regole',4 
+403,'Flusso di lavoro per le valutazioni',4 
+404,'Foto dei dipendenti',4 
+405,'Funzionalità di anteprima',4 
+406,'Generatore di moduli',4 
+407,'Generatore di shop online',4 
+408,'Generazione di proposte',4 
+409,'Gestione SEO',4 
+410,'Gestione appuntamenti',4 
+411,'Gestione contatti',4 
+412,'Gestione conti',4 
+413,'Gestione degli elenchi',4 
+414,'Gestione degli iscritti',4 
+415,'Gestione degli obiettivi',4 
+416,'Gestione degli ordini di lavoro',4 
+417,'Gestione degli sconti',4 
+418,'Gestione dei biglietti',4 
+419,'Gestione dei calendari',4 
+420,'Gestione dei canali',4 
+421,'Gestione dei clienti',4 
+422,'Gestione dei contenuti',4 
+423,'Gestione dei documenti',4 
+424,'Gestione dei feedback',4 
+425,'Gestione dei modelli',4 
+426,'Gestione dei moduli',4 
+427,'Gestione dei partecipanti',4 
+428,'Gestione dei prezzi',4 
+429,'Gestione dei problemi',4 
+430,'Gestione dei progetti',4 
+431,'Gestione dei servizi di storage',4 
+432,'Gestione dei team',4 
+433,'Gestione dei ticket di assistenza',4 
+434,'Gestione dei volontari',4 
+435,'Gestione del ciclo di vita dei prodotti',4 
+436,'Gestione del flusso di lavoro',4 
+437,'Gestione del personale',4 
+438,'Gestione del portafoglio',4 
+"439,""""""Gestione dell'accordo sul livello di servizio (SLA)"""""",4 "
+440,'Gestione della campagna',4 
+441,'Gestione della disponibilità',4 
+442,'Gestione della formazione',4 
+443,'Gestione della knowledge base',4 
+444,'Gestione della pipeline di vendita',4 
+445,'Gestione della posta elettronica',4 
+446,'Gestione delle attività',4 
+447,'Gestione delle attività di vendita',4 
+448,'Gestione delle campagne e-mail',4 
+449,'Gestione delle capacità',4 
+450,'Gestione delle code',4 
+451,'Gestione delle commissioni',4 
+452,'Gestione delle comunicazioni',4 
+453,'Gestione delle conoscenze',4 
+454,'Gestione delle donazioni',4 
+455,'Gestione delle ferie',4 
+456,'Gestione delle iscrizioni',4 
+457,'Gestione delle mansioni',4 
+458,'Gestione delle operazioni commerciali',4 
+459,'Gestione delle opportunità',4 
+460,'Gestione delle pipeline',4 
+461,'Gestione delle prestazioni',4 
+462,'Gestione delle risorse',4 
+463,'Gestione delle risorse umane',4 
+464,'Gestione delle riunioni',4 
+465,'Gestione di call center',4 
+466,'Gestione di documenti',4 
+467,'Gestione di feedback negativi',4 
+468,'Gestione di gruppi',4 
+469,'Gestione di idee',4 
+470,'Gestione di potenziali clienti',4 
+471,'Gestione di siti web',4 
+472,'Gestione donatori',4 
+473,'Gestione elenco chiamate',4 
+474,'Gestione' 'eventi',4 
+475,'Gestione finanziaria',4 
+476,'Gestione foglio presenze',4 
+477,'Gestione polizze',4 
+478,'Gestione progettuale',4 
+479,'Gestione terzisti',4 
+480,'Gestione visiva del flusso di lavoro',4 
+481,'Grafico a barre',4 
+482,'Gruppi di chiamata',4 
+483,'ID chiamante',4 
+484,'IVR/Riconoscimento Vocale',4 
+485,'Implementazione web-based',4 
+486,'Importazione/Esportazione di dati',4 
+487,'Inserimento aziendale',4 
+488,'Instradamento automatico',4 
+489,'Instradamento delle chiamate',4 
+490,'Integrazione di siti web',4 
+491,'Integrazione di social media',4 
+492,'Integrazione di terze parti',4 
+493,'Integrazione telefonia-computer (CTI)',4 
+494,'Integrazioni di terze parti',4 
+495,'Intelligenza delle conversazioni',4 
+496,'Invio di SMS di massa',4 
+497,'Lead Nurturing',4 
+498,'Lead Qualification',4 
+499,'Libreria di contenuti',4 
+500,'Libreria multimedia',4 
+501,'Live Chat',4 
+502,'Marketing multi-canale',4 
+503,'Messaggio vocale',4 
+504,'Messaggistica via SMS',4 
+505,'Modellazione e progettazione dei processi',4 
+506,'Modelli',4 
+507,'Modelli di e-mail',4 
+508,'Modelli personalizzabili',4 
+509,'Modelli precompilati',4 
+510,'Modifica del testo',4 
+511,'Modifica in tempo reale',4 
+512,'Modifica/aggiornamento delle attività',4 
+513,'Moduli elettronici',4 
+514,'Moduli online',4 
+515,'Moduli personalizzabili',4 
+516,'Moduli web',4 
+517,'Modulo offline',4 
+518,'Monitoraggio candidati',4 
+519,'Monitoraggio clienti',4 
+520,'Monitoraggio dei KPI',4 
+521,'Monitoraggio dei progressi',4 
+522,'Monitoraggio dei progressi delle attività',4 
+523,'Monitoraggio dei report/progetti',4 
+524,'Monitoraggio del ROI',4 
+525,'Monitoraggio del progetto',4 
+526,'Monitoraggio delle attività',4 
+527,'Monitoraggio delle chiamate',4 
+528,'Monitoraggio delle dipendenze',4 
+529,'Monitoraggio delle presenze',4 
+530,'Monitoraggio delle tempistiche del progetto',4 
+531,'Monitoraggio dello stato',4 
+532,'Monitoraggio di attività e progressi',4 
+533,'Monitoraggio ore online',4 
+534,'Monitoraggio vacanze/congedi',4 
+"535,""""""Monitoraggio/analisi dell'uso"""""",4 "
+536,'Multi-campagna',4 
+537,'Network privato',4 
+538,'Notifiche di potenziali clienti',4 
+539,'Notifiche in tempo reale',4 
+540,'Operazioni commerciali integrate',4 
+541,'Opzioni di pubblicazione',4 
+542,'Opzioni di pubblicazione di contenuti',4 
+543,'Orari e presenze',4 
+544,'Ore fatturabili e non fatturabili',4 
+545,'PBX',4 
+546,'Pagamenti online',4 
+547,'Pagine di destinazione/Moduli web',4 
+548,'Parametri prestazionali',4 
+549,'Per centri di yoga/pilates',4 
+550,'Per dispositivi Mac',4 
+551,'Per dispositivi iPad',4 
+552,'Per i call center',4 
+553,'Per il settore AEC',4 
+554,'Per il settore assicurativo',4 
+555,'Per istituti finanziari',4 
+556,'Per la gestione dei progetti IT',4 
+557,'Per le organizzazioni non profit',4 
+558,'Per organizzazioni religiose',4 
+559,'Per piccole imprese',4 
+560,'Per sistemi di telefonia cloud',4 
+561,'Per startup',4 
+562,'Per team commerciali/organizzazioni',4 
+563,'Personalizzazione',4 
+564,'Pianificazione automatica',4 
+565,'Pianificazione del personale',4 
+566,'Pianificazione delle lezioni',4 
+567,'Pianificazione delle risorse',4 
+568,'Pianificazione di eventi',4 
+569,'Pianificazione di progetti',4 
+570,'Pianificazione sprint',4 
+571,'Pianificazione strategica',4 
+572,'Pianificazione/Programmazione dei progetti',4 
+573,'Portale clienti',4 
+574,'Portale dei dipendenti',4 
+575,'Portale self-service',4 
+576,'Prenotazioni online',4 
+577,'Preparazione dati self-service',4 
+578,'Preventivi/Stime',4 
+579,'Previsione del personale',4 
+580,'Prioritizzazione',4 
+581,'Profili degli utenti',4 
+582,'Profili dei dipendenti',4 
+583,'Profilo del chiamante',4 
+584,'Programmazione',4 
+585,'Programmazione delle attività',4 
+586,'Programmazione di progetti',4 
+587,'Promozione sui social',4 
+588,'Quadro della attività',4 
+589,'Raccolta dati multi-canale',4 
+590,'Registrazione delle chiamate',4 
+591,'Registrazione su richiesta',4 
+"592,""""""Relazioni sull'utilizzo"""""",4 "
+593,'Relazioni sulle vendite',4 
+594,'Rendicontazione e analisi statistiche',4 
+595,'Ricerca del percorso migliore',4 
+596,'Ricerca del testo completo',4 
+597,'Ricerca/Filtro',4 
+598,'Riconoscimento meriti dei dipendenti',4 
+599,'Risponditori automatici',4 
+600,'Scheda perforata',4 
+601,'Scheda perforata online',4 
+602,'Segmentazione',4 
+603,'Segmentazione del pubblico di riferimento',4 
+604,'Segmentazione della clientela',4 
+605,'Segmentazione della clientela potenziale',4 
+606,'Selezione predittiva dei numeri di telefono',4 
+607,'Sicurezza SSL',4 
+608,'Sincronizzazione dei calendari',4 
+609,'Sincronizzazione di dati',4 
+610,'Sincronizzazione in tempo reale',4 
+611,'Sistema di calendari e promemoria',4 
+612,'Smistamento automatico delle chiamate',4 
+613,'Social Marketing',4 
+614,'Sondaggi e feedback',4 
+615,'Storico delle trascrizioni/chat',4 
+616,'Strumenti collaborativi',4 
+617,'Strumenti per la ricerca di potenziali acquirenti',4 
+618,'Targeting geografico',4 
+619,'Teleconferenze',4 
+620,'Tracciabilità delle spese',4 
+621,'Tracciamento dei click',4 
+622,'Tracciamento delle interazioni',4 
+623,'Tracciato di controllo',4 
+624,'Trascinamento della selezione (Drag & Drop)',4 
+625,'Trasferimento delle chiamate',4 
+626,'Trasferimento/Instradamento',4 
+627,'Trasmissione vocale online',4 
+628,'Trunking SIP',4 
+629,'Videoconferenze',4 
+630,'Vista di Gantt e Timeline',4 
+631,'VoIP',4 
+632,'Widget',4 
+633,'API',5 
+634,'Accesso da dispositivi mobili',5 
+635,'Accesso/Controllo remoto',5 
+636,'Acquisto e ricezione',5 
+637,'Aggiornamenti in tempo reale',5 
+638,'Analisi dati in tempo reale',5 
+639,'Analisi del rischio',5 
+640,'Analisi finanziaria',5 
+641,'Analisi predittiva',5 
+642,'Analisi visiva',5 
+643,'App per dispositivi mobili',5 
+644,'Archiviazione di documenti',5 
+645,'Assemblaggio di componenti (kitting)',5 
+646,'Automazione del marketing',5 
+647,'Avvisi/Notifiche',5 
+648,'Avviso per doppio pagamento',5 
+649,'Banca dati di iscritti',5 
+650,'CRM',5 
+651,'Campi personalizzabili',5 
+652,'Carrello degli acquisti',5 
+653,'Catalogazione/categorizzazione',5 
+654,'Check-in/Check-out',5 
+655,'Codici a barre/RFID',5 
+656,'Commenti/Note',5 
+657,'Condivisione di documenti',5 
+658,'Consolidamento/incorporazione',5 
+659,'Contabilità',5 
+660,'Contabilità dei fondi',5 
+661,'Contabilità del progetto',5 
+662,'Contabilità di base',5 
+663,'Contabilità generale',5 
+664,'Contabilità integrata',5 
+665,'Contabilizzazione dei ricavi',5 
+666,'Conto clienti',5 
+667,'Conto profitti e perdite',5 
+668,'Controllo accessi/Autorizzazioni',5 
+669,'Controllo del processo di valutazione',5 
+"670,""""""Controllo dell'inventario"""""",5 "
+671,'Controllo della versione',5 
+672,'Controllo ore e spese',5 
+673,'Creazione delle fatture',5 
+674,'Creazione di dashboard',5 
+675,'Creazione di distinte base',5 
+676,'Creazione di report/analisi',5 
+677,'Crediti esigibili',5 
+678,'Cronologia clienti',5 
+679,'Cronologia delle fatture',5 
+680,'Cronologia delle transazioni',5 
+681,'Dashboard',5 
+682,'Database clienti',5 
+683,'Database contatti',5 
+684,'Debiti esigibili',5 
+685,'Distinta materiali',5 
+686,'Elaborazione delle fatture',5 
+687,'Elaborazione di assegni',5 
+688,'Elaborazione di pagamenti',5 
+689,'Elaborazione di pagamenti in eccesso',5 
+690,'Email Marketing',5 
+691,'Estrapolazione di dati',5 
+692,'Evasione di ordini',5 
+693,'Fatturazione e contabilizzazione',5 
+694,'Fatturazione online',5 
+695,'Fatture ricorrenti e abbonamenti',5 
+696,'Formulazione di previsioni',5 
+697,'Gestione 3PL',5 
+698,'Gestione SEO',5 
+699,'Gestione contatti',5 
+700,'Gestione dati master del fornitore',5 
+701,'Gestione degli approvvigionamenti',5 
+702,'Gestione degli articoli',5 
+703,'Gestione degli audit',5 
+704,'Gestione degli ordini',5 
+705,'Gestione degli ordini arretrati',5 
+"706,""""""Gestione degli ordini d'acquisto"""""",5 "
+707,'Gestione degli sconti',5 
+708,'Gestione dei canali',5 
+709,'Gestione dei clienti',5 
+710,'Gestione dei dati del prodotto',5 
+711,'Gestione dei fornitori',5 
+712,'Gestione dei materiali',5 
+713,'Gestione dei pagamenti ACH',5 
+714,'Gestione dei prodotti',5 
+715,'Gestione dei progetti',5 
+716,'Gestione dei resi',5 
+717,'Gestione dei trasporti',5 
+718,'Gestione del ciclo di vita delle risorse',5 
+719,'Gestione del flusso di lavoro',5 
+720,'Gestione del magazzino',5 
+721,'Gestione del personale',5 
+722,'Gestione del portafoglio',5 
+723,'Gestione del rischio',5 
+724,'Gestione del territorio',5 
+"725,""""""Gestione dell'approvvigionamento"""""",5 "
+"726,""""""Gestione dell'e-commerce"""""",5 "
+"727,""""""Gestione dell'inventario"""""",5 "
+728,'Gestione della campagna',5 
+729,'Gestione della catena logistica',5 
+730,'Gestione della clientela',5 
+731,'Gestione della conformità',5 
+732,'Gestione della consegna',5 
+733,'Gestione della formazione',5 
+734,'Gestione della liquidità',5 
+735,'Gestione della pipeline di vendita',5 
+736,'Gestione della posta elettronica',5 
+737,'Gestione della produzione',5 
+738,'Gestione della qualità',5 
+739,'Gestione della raccolta di fondi',5 
+740,'Gestione della ricezione e dello stoccaggio',5 
+741,'Gestione della spesa',5 
+742,'Gestione delle attività',5 
+743,'Gestione delle attività di vendita',5 
+744,'Gestione delle buste paga',5 
+745,'Gestione delle capacità',5 
+746,'Gestione delle commissioni',5 
+747,'Gestione delle comunicazioni',5 
+748,'Gestione delle immobilizzazioni',5 
+749,'Gestione delle iscrizioni',5 
+750,'Gestione delle pipeline',5 
+751,'Gestione delle promozioni',5 
+752,'Gestione delle richieste',5 
+753,'Gestione delle risorse',5 
+754,'Gestione delle risorse aziendali',5 
+755,'Gestione delle risorse umane',5 
+756,'Gestione delle sovvenzioni',5 
+757,'Gestione delle spedizioni',5 
+758,'Gestione delle spese',5 
+759,'Gestione delle tasse',5 
+760,'Gestione delle transazioni',5 
+761,'Gestione di contratti/licenze',5 
+762,'Gestione di dati',5 
+763,'Gestione di documenti',5 
+764,'Gestione di idee',5 
+765,'Gestione di più divisioni/progetti',5 
+766,'Gestione di potenziali clienti',5 
+767,'Gestione di siti web',5 
+768,'Gestione donatori',5 
+769,'Gestione finanziaria',5 
+770,'Gestione foglio presenze',5 
+771,'Gestione multi-canale',5 
+772,'Gestione nuovi ordini',5 
+773,'Gestione stock commercianti al dettaglio',5 
+774,'Identificazione del prodotto',5 
+775,'Importazione/Esportazione di dati',5 
+776,'Indicatori chiave di performance (KPI)',5 
+777,'Individuazione delle competenze',5 
+778,'Informazioni in tempo reale',5 
+779,'Inserimento aziendale',5 
+780,'Inserimento ordini',5 
+781,'Integrazione di social media',5 
+782,'Integrazioni di terze parti',5 
+783,'Lead Qualification',5 
+784,'Marketing multi-canale',5 
+785,'Modelli personalizzabili',5 
+786,'Monitoraggio degli ordini',5 
+787,'Monitoraggio dei costi',5 
+788,'Monitoraggio dei costi di completamento',5 
+789,'Monitoraggio dei report/progetti',5 
+"790,""""""Monitoraggio dell'inventario"""""",5 "
+791,'Monitoraggio della conformità',5 
+792,'Monitoraggio della percentuale di completamento',5 
+793,'Monitoraggio delle attività',5 
+794,'Monitoraggio dello stato',5 
+795,'Monitoraggio in tempo reale',5 
+796,'Monitoraggio termini di pagamento',5 
+797,'Operazioni commerciali integrate',5 
+798,'Ordini di vendita',5 
+799,'Ordini ricorrenti',5 
+"800,""""""Ottimizzazione dell'inventario"""""",5 "
+801,'Pagamenti online',5 
+802,'Pagamenti parziali',5 
+803,'Pagamento dei fornitori',5 
+804,'Pagamento elettronico',5 
+805,'Parametri prestazionali',5 
+806,'Per B2B',5 
+807,'Per commercialisti',5 
+808,'Per il settore assicurativo',5 
+809,'Per le organizzazioni non profit',5 
+810,'Per negozi al dettaglio',5 
+811,'Per piccole imprese',5 
+812,'Per proprietà immobiliari',5 
+813,'Per ristoranti',5 
+814,'Pianificazione automatica',5 
+815,'Pianificazione del fabbisogno dei materiali (MRP)',5 
+816,'Pianificazione delle capacità',5 
+817,'Pianificazione delle risorse',5 
+"818,""""""Pianificazione delle risorse d'impresa (ERP)"""""",5 "
+819,'Pianificazione di progetti',5 
+820,'Pianificazione di vendite e operazioni',5 
+821,'Pianificazione e allocazione delle risorse',5 
+822,'Pianificazione strategica',5 
+823,'Pianificazione/Programmazione dei progetti',5 
+824,'Pianificazione/previsione delle spese',5 
+825,'Piano dei conti',5 
+826,'Portale clienti',5 
+827,'Portale self-service',5 
+828,'Preparazione dati self-service',5 
+829,'Preventivi/Stime',5 
+830,'Previsione della domanda',5 
+831,'Previsione di vendita',5 
+832,'Prioritizzazione',5 
+833,'Programmazione',5 
+834,'Programmazione della produzione',5 
+835,'Programmazione delle attività',5 
+836,'Promemoria',5 
+837,'Pubblicazione/Condivisione',5 
+838,'Punto di vendita',5 
+839,'Quadro della attività',5 
+840,'Reddito e stato patrimoniale',5 
+841,'Registro dei crediti',5 
+842,'Regole personalizzabili',5 
+"843,""""""Relazioni sull'utilizzo"""""",5 "
+844,'Relazioni sulle vendite',5 
+845,'Rendicontazione e analisi statistiche',5 
+846,'Rendicontazione finanziaria',5 
+847,'Rendicontazione in tempo reale',5 
+848,'Report personalizzabili',5 
+849,'Reporting ad hoc',5 
+850,'Ricerca/Filtro',5 
+851,'Richiesta di risorse',5 
+852,'Riconciliazione bancaria',5 
+"853,""""""Riconciliazione ordini d'acquisto"""""",5 "
+854,'Rilevamento di numeri di serie',5 
+855,'Scansione di codici a barre/biglietti',5 
+856,'Scenari possibili',5 
+857,'Segmentazione',5 
+858,'Sicurezza dei dati',5 
+859,'Sistema di calendari e promemoria',5 
+860,'Sistema multi-locale',5 
+861,'Sistema multi-valuta',5 
+862,'Strumenti collaborativi',5 
+863,'Strumenti di pianificazione',5 
+864,'Tabella del metodo Kanban',5 
+865,'Testimonianze del cliente',5 
+866,'Tracciabilità',5 
+867,'Tracciabilità delle donazioni',5 
+868,'Tracciabilità delle spese',5 
+869,'Tracciamento delle interazioni',5 
+870,'Tracciato di controllo',5 
+871,'Trasferimento elettronico di fondi',5 
+"872,""""""Verifica dell'inventario"""""",5 "
+873,'Vista di Gantt e Timeline',5 
+874,'Visualizzazione di dati',5 
+875,'Accesso da dispositivi mobili',6 
+876,'Acquisto e ricezione',6 
+877,'Archiviazione di documenti',6 
+878,'Assemblaggio di componenti (kitting)',6 
+879,'Automatizzazione dei moduli',6 
+880,'Automazione dei processi aziendali',6 
+881,'Automazione del marketing',6 
+882,'Avvisi/Notifiche',6 
+883,'CRM',6 
+884,'Calcolo delle imposte',6 
+885,'Codici a barre/RFID',6 
+886,'Contabilità',6 
+887,'Contabilità del progetto',6 
+888,'Contabilità generale',6 
+889,'Contabilità integrata',6 
+890,'Conto profitti e perdite',6 
+891,'Controllo accessi/Autorizzazioni',6 
+892,'Controllo degli orari di lavoro',6 
+893,'Controllo della versione',6 
+894,'Controllo ore e spese',6 
+895,'Creazione delle fatture',6 
+896,'Creazione di report/analisi',6 
+897,'Crediti esigibili',6 
+898,'Cronologia delle fatture',6 
+899,'Database contatti',6 
+900,'Debiti esigibili',6 
+901,'Dichiarazione dei redditi',6 
+902,'Elaborazione di pagamenti',6 
+903,'Fatturazione e contabilizzazione',6 
+904,'Fatturazione online',6 
+905,'Fatture personalizzabili',6 
+906,'Flusso di lavoro basato su regole',6 
+907,'Flusso di lavoro per le valutazioni',6 
+908,'Formulazione di previsioni',6 
+909,'Gestione 3PL',6 
+910,'Gestione contatti',6 
+911,'Gestione degli ordini',6 
+"912,""""""Gestione degli ordini d'acquisto"""""",6 "
+913,'Gestione dei calendari',6 
+914,'Gestione dei clienti',6 
+915,'Gestione dei progetti',6 
+916,'Gestione dei resi',6 
+917,'Gestione del ciclo di vita delle risorse',6 
+918,'Gestione del flusso di lavoro',6 
+"919,""""""Gestione dell'inventario"""""",6 "
+920,'Gestione della catena logistica',6 
+921,'Gestione della conformità',6 
+922,'Gestione della liquidità',6 
+923,'Gestione della pipeline di vendita',6 
+924,'Gestione della posta elettronica',6 
+925,'Gestione della qualità',6 
+926,'Gestione della ricezione e dello stoccaggio',6 
+927,'Gestione delle attività',6 
+928,'Gestione delle buste paga',6 
+929,'Gestione delle comunicazioni',6 
+930,'Gestione delle immobilizzazioni',6 
+931,'Gestione delle pipeline',6 
+932,'Gestione delle risorse aziendali',6 
+933,'Gestione delle risorse umane',6 
+934,'Gestione delle spedizioni',6 
+935,'Gestione delle spese',6 
+936,'Gestione delle tasse',6 
+937,'Gestione di documenti',6 
+938,'Gestione di più divisioni/progetti',6 
+939,'Gestione di potenziali clienti',6 
+940,'Gestione finanziaria',6 
+941,'Importazione/Esportazione di dati',6 
+942,'Integrazioni di terze parti',6 
+943,'Lead Qualification',6 
+944,'Modellazione e progettazione dei processi',6 
+945,'Monitoraggio della data di scadenza',6 
+946,'Monitoraggio dello stato',6 
+947,'Operazioni commerciali integrate',6 
+948,'Pagamenti online',6 
+949,'Pagamenti' 'tramite cellulare',6 
+950,'Per commercialisti',6 
+951,'Per pratiche fiscali',6 
+952,'Pianificazione strategica',6 
+953,'Pianificazione/previsione delle spese',6 
+954,'Portale clienti',6 
+955,'Preventivi/Stime',6 
+956,'Quadro della attività',6 
+957,'Reddito e stato patrimoniale',6 
+958,'Rendicontazione e analisi statistiche',6 
+959,'Rendicontazione finanziaria',6 
+960,'Riconciliazione bancaria',6 
+961,'Segmentazione',6 
+962,'Senza codice',6 
+963,'Sistema di calendari e promemoria',6 
+964,'Sistema multi-valuta',6 
+965,'Strumenti collaborativi',6 
+966,'Tracciabilità delle spese',6 
+967,'Tracciamento delle interazioni',6 
+968,'CRM',7 
+969,'Creazione di report/analisi',7 
+970,'Gestione degli ordini',7 
+971,'Gestione del magazzino',7 
+"972,""""""Gestione dell'inventario"""""",7 "
+973,'Gestione della catena logistica',7 
+974,'Gestione delle risorse aziendali',7 
+975,'Gestione delle risorse umane',7 
+976,'Gestione finanziaria',7 
+977,'Operazioni commerciali integrate',7 
+978,'Software per chiusura contabile',8 
+979,'Programmi per archiviazione',8 
+980,'Software per la pianificazione dei fabbisogni di materiali (MRP)',8 
+981,'Software per la gestione delle commesse',8 
+982,'Software per la gestione della supply chain',8 
+"983,""""""Software per l'industria manifatturiera"""""",8 "
+984,'Software per la programmazione della produzione',8 
+985,'Programmi per inventario',8 
+986,'Software per offerte commerciali',8 
+987,'Software per la creazione di preventivi',8 
+988,'Software per creare codici a barre',8 
+989,'Software per distinta base',8 
+990,'Software CRM online',8 
+991,'Software per tesoreria aziendale',8 
+992,'Software per budget',8 
+993,'Piattaforme e-procurement',8 
+994,'Software di contabilità generale',8 
+995,'Software per la distribuzione',8 
+996,'Software per creare report',8 
+997,'Software MES',8 
+998,'Software di contabilità per agenzie immobiliari',8 
+999,'Software per commercialisti',8 
+1000,'Programmi per gestione magazzino',8 
+1001,'Software di gestione fatturazione passiva',8 
+1002,'Software per la gestione degli acquisti',8 
+1003,'Software PLM',8 
+1004,'Software di contabilità',8 
+1005,'Software per la gestione degli ordini',8 
+1006,'Software per negozi',8 
+1007,'Software ERP',8 
+1008,'Software per Inventory Management',8 
+1009,'Software CRM',8 
+1010,'Software di gestione documentale',8 
+1011,'Programmi per fatturazione elettronica',8 
+"1012,""""""Software per l'immissione di ordini"""""",8 "
